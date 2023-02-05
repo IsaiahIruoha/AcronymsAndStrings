@@ -1,2 +1,2 @@
 # AcronymsAndStrings
-APSC143 Assignment 6
+Course assignment including the use of strings in C
